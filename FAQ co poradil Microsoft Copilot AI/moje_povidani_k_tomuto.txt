@@ -1,0 +1,17 @@
+
+jenom ve strucnosti, mel jsem par nejasnosti jak muj program(y) pobezi na starsich verzich systemu Windows a zda vubec, tak jsem vytvoril tento scrennshotovi FAQ za pomoci Microsoft copilot AI
+jednotlive obrazky jsou opet "cislovany" chronlogicky a v nazvu maji presny cas kdy znikly, aby bylo
+zajisteno jejich spravne poradi pri pozdejsim cteni
+
+paklize by se u vas vyskytli nejake problemy ze spustenim a nebo behem programu na vesem konkretni stroji
+tak si myslim ze toto poslouzi jako velmi dobra odborna napoveda a ani me nanepada zpusob jak to udelat lepe :)
+
+dale jsem vytvoril novy script , spuste soubor "system_info.bat" v horni casti jsou informace vytazene z meho
+pocitace, jak je verze "Powershellu" a verze ".Net Framework" na mem stroji
+dole pod tim (bile) by se pak meli ukazat informace ktere se script pokusi "vytahnout" z vaseho pocitace
+pro porovnani, v podstate jde pak o to aby se tyto informace co nejvice shodovali, novejsi verze neceho
+nez je u me samozdejme nicemu nevadi viz FAQ
+
+17.4.2025
+
+
